@@ -61,7 +61,7 @@
     }
   },
   "devDependencies": {
-    "@earendil-works/pi-coding-agent": "1.1.0",
+    "@earendil-works/pi-coding-agent": "1.5.2",
     "@earendil-works/pi-durable": "1.0.4",
     "@earendil-works/chord": "1.1.0",
     "@types/node": "26.6.4",
